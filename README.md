@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tidykiwi
+- 👋 Hi, my name is Ross!
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning software development at Mission Ready in New Zealand
 - 💞️ I’m looking to collaborate on ... nothing at this stage as I am studying fulltime
