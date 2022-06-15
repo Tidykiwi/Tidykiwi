@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Ross!
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently completing industrial experience at...
-- 💞️ I’m looking to collaborate on ... nothing at this stage as I am currently involved full-time in an industrial experience project.
+- 🌱 I’m currently completing industrial experience at the National Institute for Health Innovation
+- 💞️ I’m looking to collaborate on ... nothing at this stage as I am currently involved full-time in an industry experience project.
 - 📫 How to reach me rosskeithbaker@gmail.com
 
 <!---
